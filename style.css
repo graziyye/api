@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 50px ;
+}
+
+.container{
+    margin-left: -30px;
+}
+
+button{
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    background-color: #000;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin-left: -10px;
+}
